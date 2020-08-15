@@ -1,0 +1,1 @@
+console.table(Deno.metrics())

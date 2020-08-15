@@ -1,0 +1,1 @@
+await Deno.stdout.write(new Uint8Array(new TextEncoder().encode("alanwalter45")));
